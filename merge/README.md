@@ -1,1 +1,1 @@
-Simulations from Snellius are merged spatially and tempoorally
+Simulations from Snellius are merged spatially and temporally
